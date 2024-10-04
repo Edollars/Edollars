@@ -1,10 +1,5 @@
-Hi am EDollars. Am a logistician and a Dev.
-Am in love with Cybersecurity & Backend dev.
-Am currently learning JS a dono when a will reach Python haha.
-If u can really handle badass project then welcome here.
-
-Am almost everywhere U just have to be able to spot me.
-
+Hi am Eve Dollars.
+Passionate about Logistics, CyberSecurity and webdevelopment.
 Am everywhere buh invisible.
 
 
