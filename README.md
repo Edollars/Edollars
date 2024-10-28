@@ -1,6 +1,5 @@
-Hi am Eve Dollars.
+Hi am Eve.
 Passionate about Logistics, CyberSecurity and webdevelopment.
-Am everywhere buh invisible.
 
 
 <!---
